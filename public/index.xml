@@ -8,13 +8,6 @@
     <language>en-gb</language>
     <atom:link href="yvaine.ink/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>yvaine.ink/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>yvaine.ink/writing/</guid>
-      <description>Stories Brynn&#xA;Tonya&#xA;Yvonne&#xA;Andie&#xA;Doyle&#xA;Poetry Reed</description>
-    </item>
-    <item>
       <title>Andie</title>
       <link>yvaine.ink/short_stories/andie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>yvaine.ink/short_stories/tonya/</guid>
       <description>Glasses on the table. Tonya didn’t like to lay in bed with them on. She’d smush them against her hands or pillows too often. Her eyes did ache a bit though, she’d been staring at her laptop for the last&amp;ndash;&#xA;Tonya glanced at her alarm clock.&#xA;02:11.&#xA;&amp;ndash;for the last two hours.&#xA;Another day off her routine.&#xA;She’d been sleeping later and later.&#xA;She paused her show. She lay there, losing a staring contest to the back of her eyelids.</description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>yvaine.ink/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>yvaine.ink/writing/</guid>
+      <description>Stories Brynn&#xA;Tonya&#xA;Yvonne&#xA;Andie&#xA;Doyle&#xA;Poetry Reed</description>
     </item>
     <item>
       <title>Yvonne</title>

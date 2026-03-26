@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>yvaine.ink/writing/</loc>
-  </url><url>
     <loc>yvaine.ink/short_stories/andie/</loc>
   </url><url>
     <loc>yvaine.ink/short_stories/brynn/</loc>
@@ -25,6 +23,8 @@
     <loc>yvaine.ink/tags/</loc>
   </url><url>
     <loc>yvaine.ink/short_stories/tonya/</loc>
+  </url><url>
+    <loc>yvaine.ink/writing/</loc>
   </url><url>
     <loc>yvaine.ink/short_stories/yvonne/</loc>
   </url>
