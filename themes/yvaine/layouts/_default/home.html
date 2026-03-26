@@ -4,10 +4,8 @@
     <div class="column">
       <h2><a href="/writing/">Writing</a></h2>
       <p>Mainly short stories at the moment.</p>
-      {{ range where site.RegularPages "Section" "short_stories" }}
         <p><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
       {{ end }}
-      {{ range where site.RegularPages "Section" "poetry" }}
         <p><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
       {{ end }}
     </div>
