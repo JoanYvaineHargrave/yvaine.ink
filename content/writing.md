@@ -1,6 +1,6 @@
-<head>
-    <title>Writing | Joan Yvaine Hargrave</title>
-</head>
++++
+title = 'Writing'
++++
 
 <div class="columns">
   <div class="column">
