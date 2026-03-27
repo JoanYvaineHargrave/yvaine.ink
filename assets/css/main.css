@@ -28,7 +28,8 @@ nav ul {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 40px;
-    margin-top: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 p {
