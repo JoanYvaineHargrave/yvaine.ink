@@ -4,6 +4,8 @@
   <url>
     <loc>//localhost:1313/short_stories/andie/</loc>
   </url><url>
+    <loc>//localhost:1313/other/archive/</loc>
+  </url><url>
     <loc>//localhost:1313/short_stories/brynn/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
@@ -29,8 +31,6 @@
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/tonya/</loc>
-  </url><url>
-    <loc>//localhost:1313/other/release_order/</loc>
   </url><url>
     <loc>//localhost:1313/writing/</loc>
   </url><url>
