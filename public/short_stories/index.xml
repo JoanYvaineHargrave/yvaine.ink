@@ -2,44 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Short_stories on Joan Yvaine Hargrave&#39;s Collection</title>
-    <link>yvaine.ink/short_stories/</link>
+    <link>//localhost:1313/short_stories/</link>
     <description>Recent content in Short_stories on Joan Yvaine Hargrave&#39;s Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="yvaine.ink/short_stories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/short_stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andie</title>
-      <link>yvaine.ink/short_stories/andie/</link>
+      <link>//localhost:1313/short_stories/andie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>yvaine.ink/short_stories/andie/</guid>
+      <guid>//localhost:1313/short_stories/andie/</guid>
       <description>“Clear?”&#xA;“Clear.”&#xA;Flicking a switch, Andie stood up. Legs a bit weak, they’d been at the wheel for a bit now. A couple asteroid fields in succession made for a busy day. Stressful, maybe? Engaging, for sure.&#xA;“Bagel?” Andie yelled facing away from their copilot.&#xA;“Uh, nah. Coffee if you can.”&#xA;“Got you.”&#xA;Kettle. Andie opened the cupboards. They’d need to land soon. Food running low.&#xA;Click.&#xA;Andie poured out the water and placed a tea bag in to steep.</description>
     </item>
     <item>
       <title>Brynn</title>
-      <link>yvaine.ink/short_stories/brynn/</link>
+      <link>//localhost:1313/short_stories/brynn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>yvaine.ink/short_stories/brynn/</guid>
+      <guid>//localhost:1313/short_stories/brynn/</guid>
       <description>The bus came to a standstill.&#xA;It was the fourth or fifth one at this point. Brynn wasn’t keeping count anymore.&#xA;She’d had a good night. Her first concert went swimmingly well, throat still sore from yelling the lyrics through. She continued to recap the night. The person in front of her kept stepping on the person next to them, she smiled to herself. Her eyes met herself in the mirror.</description>
     </item>
     <item>
       <title>Doyle</title>
-      <link>yvaine.ink/short_stories/doyle/</link>
+      <link>//localhost:1313/short_stories/doyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>yvaine.ink/short_stories/doyle/</guid>
+      <guid>//localhost:1313/short_stories/doyle/</guid>
       <description>Passenger seat. Doyle could feel the faint hum of the engine. Each crack in the road. Every manhole cover. The trees blurred by. It was fall, Doyle did not care for fall too much. The orange was nice at first. But each day he grew tired of it.&#xA;Jovial shrieks from the backseat. The baby was laughing.&#xA;Doyle looked back.&#xA;His brother was tickling the kid. He was good with them like that.</description>
     </item>
     <item>
-      <title>Tonya</title>
-      <link>yvaine.ink/short_stories/tonya/</link>
+      <title>Here, Now</title>
+      <link>//localhost:1313/short_stories/here_now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>yvaine.ink/short_stories/tonya/</guid>
+      <guid>//localhost:1313/short_stories/here_now/</guid>
+      <description>Flowers.&#xA;He got me flowers.&#xA;It was not my birthday. I was not celebrating anything, I hadn’t done extraordinarily at anything recently. I had not lost anyone. It was not our anniversary; we were not together.&#xA;I love him.&#xA;I&amp;rsquo;m sitting here, at my kitchen table, flowers in a vase before me on my kitchen island, smiling. Just smiling. I reckon I’ve been smiling the last two hours. My cheeks ached.</description>
+    </item>
+    <item>
+      <title>Mike</title>
+      <link>//localhost:1313/short_stories/mike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/short_stories/mike/</guid>
+      <description>“And with that, we will be going to commercial.”&#xA;I smiled at the camera, shuffled some papers, waiting for my cue.&#xA;“Off!”&#xA;My face went deadpan.&#xA;“Next segment, breaking news. Plane crash, three dead, 32 injured. Names of the deceased are Fran Elliston, Mike Fairburn, and Emerie Hud&amp;ndash;”&#xA;“Mike who?”&#xA;“Fairburn. Mike Fairburn.” She looked at me, some amount of disdain clearly palpable. Erica never liked it when we cut it close during commercials.</description>
+    </item>
+    <item>
+      <title>Tonya</title>
+      <link>//localhost:1313/short_stories/tonya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/short_stories/tonya/</guid>
       <description>Glasses on the table. Tonya didn’t like to lay in bed with them on. She’d smush them against her hands or pillows too often. Her eyes did ache a bit though, she’d been staring at her laptop for the last&amp;ndash;&#xA;Tonya glanced at her alarm clock.&#xA;02:11.&#xA;&amp;ndash;for the last two hours.&#xA;Another day off her routine.&#xA;She’d been sleeping later and later.&#xA;She paused her show. She lay there, losing a staring contest to the back of her eyelids.</description>
     </item>
     <item>
       <title>Yvonne</title>
-      <link>yvaine.ink/short_stories/yvonne/</link>
+      <link>//localhost:1313/short_stories/yvonne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>yvaine.ink/short_stories/yvonne/</guid>
+      <guid>//localhost:1313/short_stories/yvonne/</guid>
       <description>It’d been a bit. Couple days maybe. It had been a bit.&#xA;Rising from her bed, she sat at her desk. Didn’t take long for her to stand up from there too.&#xA;Bread, peanut butter. She liked it warm, just before it melted.&#xA;Downstairs, to the microwave.&#xA;The whirr of the microwave began, a sound familiar to Yvonne. Some days, that’d be all she heard. A faint whirr.&#xA;She opened up the microwave.</description>
     </item>
   </channel>

@@ -2,30 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>yvaine.ink/short_stories/andie/</loc>
+    <loc>//localhost:1313/short_stories/andie/</loc>
   </url><url>
-    <loc>yvaine.ink/short_stories/brynn/</loc>
+    <loc>//localhost:1313/short_stories/brynn/</loc>
   </url><url>
-    <loc>yvaine.ink/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>yvaine.ink/short_stories/doyle/</loc>
+    <loc>//localhost:1313/other/release_order/</loc>
   </url><url>
-    <loc>yvaine.ink/</loc>
+    <loc>//localhost:1313/short_stories/doyle/</loc>
   </url><url>
-    <loc>yvaine.ink/photography/</loc>
+    <loc>//localhost:1313/short_stories/here_now/</loc>
   </url><url>
-    <loc>yvaine.ink/poems/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>yvaine.ink/poems/reed/</loc>
+    <loc>//localhost:1313/short_stories/mike/</loc>
   </url><url>
-    <loc>yvaine.ink/short_stories/</loc>
+    <loc>//localhost:1313/other/</loc>
   </url><url>
-    <loc>yvaine.ink/tags/</loc>
+    <loc>//localhost:1313/photography/</loc>
   </url><url>
-    <loc>yvaine.ink/short_stories/tonya/</loc>
+    <loc>//localhost:1313/poems/</loc>
   </url><url>
-    <loc>yvaine.ink/writing/</loc>
+    <loc>//localhost:1313/poems/reed/</loc>
   </url><url>
-    <loc>yvaine.ink/short_stories/yvonne/</loc>
+    <loc>//localhost:1313/short_stories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/tonya/</loc>
+  </url><url>
+    <loc>//localhost:1313/writing/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/yvonne/</loc>
   </url>
 </urlset>
