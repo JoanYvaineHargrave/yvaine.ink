@@ -51,3 +51,7 @@ Andie noticed they weren’t fully there.
 “Mhmm”
 
 “Two klicks out”
+
+<p style="text-align: center;">
+  <a href="/writing/">Back to Writing</a>
+</p>
