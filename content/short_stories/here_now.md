@@ -20,4 +20,4 @@ No. It mattered. Plenty. I wanted him here, in my arms and myself in his. His wo
 
 I'm done for.
 
-It was never meant to be like this. He had things to do, I had things to do. He had things troubling him, I had things troubling me. He has me. I have h-. Does he know? That he cannot just drop flowers by and move on. That he could be the reason I smiled yet the reason I hid it. *That he could have me*.
+It was never meant to be like this. He had things to do, I had things to do. He had things troubling him, I had things troubling me. He has me. I have h-. Does he know? That he cannot just drop flowers by and move on. That he cannot be the reason I smiled yet the reason I hid it. *That he could have me*.
