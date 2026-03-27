@@ -10,7 +10,7 @@ I smiled at the camera, shuffled some papers, waiting for my cue.
 
 My face went deadpan. 
 
-“Next segment, breaking news. Plane crash, three dead, 32 injured. Names of the deceased are Fran Elliston, Mike Fairburn, and Emerie Hud-”
+“Next segment, breaking news. Plane crash, three dead, 32 injured. Names of the deceased are Fran Elliston, Mike Fairburn, and Emerie Hud--”
 
 “Mike who?”
 
