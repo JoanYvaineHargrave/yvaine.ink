@@ -51,5 +51,3 @@ Andie noticed they weren’t fully there.
 “Mhmm”
 
 “Two klicks out”
-
-<small>This is smaller text</small>
