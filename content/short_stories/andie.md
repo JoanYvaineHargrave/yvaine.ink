@@ -52,6 +52,4 @@ Andie noticed they weren’t fully there.
 
 “Two klicks out”
 
-<p style="text-align: center;">
-  <a href="/writing/">Back to Writing</a>
-</p>
+<small>This is smaller text</small>
