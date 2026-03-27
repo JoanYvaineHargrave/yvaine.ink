@@ -22,13 +22,6 @@
       <description>The bus came to a standstill.&#xA;It was the fourth or fifth one at this point. Brynn wasn’t keeping count anymore.&#xA;She’d had a good night. Her first concert went swimmingly well, throat still sore from yelling the lyrics through. She continued to recap the night. The person in front of her kept stepping on the person next to them, she smiled to herself. Her eyes met herself in the mirror.</description>
     </item>
     <item>
-      <title>Chronological Order</title>
-      <link>//localhost:1313/other/release_order/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/other/release_order/</guid>
-      <description> Stories Brynn -- 24 March, 2026 · 301 words&#xA;Tonya -- 24 March, 2026 · 156 words&#xA;Yvonne -- 24 March, 2026 · 167 words&#xA;Andie -- 25 March, 2026 · 258 words&#xA;Doyle -- 25 March, 2026 · 295 words&#xA;Here, Now -- 27 March, 2026 · 234 words&#xA;Mike -- 27 March, 2026 · 429 words&#xA;Poetry Reed -- 24 March, 2026 · 157 words Back to original order </description>
-    </item>
-    <item>
       <title>Doyle</title>
       <link>//localhost:1313/short_stories/doyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,10 +65,17 @@
     </item>
     <item>
       <title>Writing</title>
+      <link>//localhost:1313/other/release_order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/other/release_order/</guid>
+      <description>Stories Here, Now&#xA;March 2026 · 234 words He got me flowers. Mike&#xA;March 2026 · 234 words I thought it would hurt to say. Doyle&#xA;March 2026 · 295 words Nothing felt fresh. Rehearsed. Yvonne&#xA;March 2026 · 167 words It was perfect. Or at least familiar. Andie&#xA;March 2026 · 258 words It wasn’t dark, per se. Brynn&#xA;March 2026 · 301 words &#34;At this time?&#34; Tonya</description>
+    </item>
+    <item>
+      <title>Writing</title>
       <link>//localhost:1313/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/</guid>
-      <description> Stories Here, Now&#xA;March 2026 · 234 words Mike -- March 2026 · 429 words&#xA;Doyle -- March 2026 · 295 words&#xA;Yvonne -- March 2026 · 167 words&#xA;Andie -- March 2026 · 258 words&#xA;Brynn -- March 2026 · 301 words&#xA;Tonya -- March 2026 · 156 words&#xA;Poetry Reed -- March 2026 · 156 words&#xA;View in chronological order </description>
+      <description>Stories Here, Now&#xA;March 2026 · 234 words He got me flowers. Mike&#xA;March 2026 · 234 words I thought it would hurt to say. Doyle&#xA;March 2026 · 295 words Nothing felt fresh. Rehearsed. Yvonne&#xA;March 2026 · 167 words It was perfect. Or at least familiar. Andie&#xA;March 2026 · 258 words It wasn’t dark, per se. Brynn&#xA;March 2026 · 301 words &#34;At this time?&#34; Tonya</description>
     </item>
     <item>
       <title>Yvonne</title>
