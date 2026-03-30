@@ -16,9 +16,9 @@
     </item>
     <item>
       <title>Archive</title>
-      <link>//localhost:1313/other/archive/</link>
+      <link>//localhost:1313/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/other/archive/</guid>
+      <guid>//localhost:1313/archive/</guid>
       <description>Stories Brynn&#xA;24 March, 2026 · 301 words &#34;At this time?&#34; Tonya&#xA;24 March, 2026 · 156 words “Why?” Yvonne&#xA;24 March, 2026 · 167 words It was perfect. Or at least familiar. Andie&#xA;25 March, 2026 · 258 words It wasn’t dark, per se. Doyle&#xA;25 March, 2026 · 295 words Nothing felt fresh. Rehearsed. Here, Now&#xA;27 March, 2026 · 234 words He got me flowers. Mike</description>
     </item>
     <item>
@@ -27,6 +27,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/short_stories/brynn/</guid>
       <description>The bus came to a standstill.&#xA;It was the fourth or fifth one at this point. Brynn wasn’t keeping count anymore.&#xA;She’d had a good night. Her first concert went swimmingly well, throat still sore from yelling the lyrics through. She continued to recap the night. The person in front of her kept stepping on the person next to them, she smiled to herself. Her eyes met herself in the mirror.</description>
+    </item>
+    <item>
+      <title>Conversation Nonetheless</title>
+      <link>//localhost:1313/short_stories/conversation_nonetheless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/short_stories/conversation_nonetheless/</guid>
+      <description>I was not interesting. That was what he told me. That I had no interests of note, that speaking to me was dull, that he felt as though he had to impart each one of his interests onto me. And that, that was why we could not see one another.&#xA;I was seated. My eyes moved upwards, meeting his. I stared into them, the eyes of the man I’d still listen speak for hours.</description>
     </item>
     <item>
       <title>Doyle</title>
@@ -75,7 +82,7 @@
       <link>//localhost:1313/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/writing/</guid>
-      <description>Selected Stories Here, Now&#xA;March 2026 · 234 words He got me flowers. Mike&#xA;March 2026 · 234 words I thought it would hurt to say. Doyle&#xA;March 2026 · 295 words Nothing felt fresh. Rehearsed. Yvonne&#xA;March 2026 · 167 words It was perfect. Or at least familiar. Andie&#xA;March 2026 · 258 words It wasn’t dark, per se. Selected Poetry Reed&#xA;March 2026 · 156 words Hurt me, Just a little, Archive</description>
+      <description>Selected Stories Here, Now&#xA;March 2026 · 234 words He got me flowers. Conversation Nonetheless&#xA;March 2026 · 308 words Not the conversation I’d have chosen, but a conversation nonetheless. Mike&#xA;March 2026 · 429 words I thought it would hurt to say. Doyle&#xA;March 2026 · 295 words Nothing felt fresh. Rehearsed. Yvonne&#xA;March 2026 · 167 words It was perfect. Or at least familiar. Selected Poetry Reed</description>
     </item>
     <item>
       <title>Yvonne</title>

@@ -4,11 +4,13 @@
   <url>
     <loc>//localhost:1313/short_stories/andie/</loc>
   </url><url>
-    <loc>//localhost:1313/other/archive/</loc>
+    <loc>//localhost:1313/archive/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/brynn/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/conversation_nonetheless/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/doyle/</loc>
   </url><url>
@@ -17,8 +19,6 @@
     <loc>//localhost:1313/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/mike/</loc>
-  </url><url>
-    <loc>//localhost:1313/other/</loc>
   </url><url>
     <loc>//localhost:1313/photography/</loc>
   </url><url>
