@@ -1,0 +1,9 @@
++++
+title = 'Half a Chair'
++++
+---
+He rode the bus. Frequently. He sat with his bag in front of him, between his legs. Sometimes underneath the seat. He folded up his jacket and placed it neatly on his lap. He sat on the very edge of his seat. As though even half a chair was more than enough for him. Every time the bus came to a halt, and another passenger boarded, he adjusted his things. They had not moved out of place since the last stop, but he thought the attempt would entice others to occupy the seat next to him.
+
+Sometimes his eyes would water. Now was one such time. At first, he thought it was because he needed glasses. He went to the doctor and discovered he did. But this did not stop the watery eyes. He did not know what to do. He was unsure of the proper etiquette. Whether he should blink more — No, that only made them water more. Should he keep them open, in hopes that it would subside — No, that only made them water more. And when the eyes welled up too much for him to hold by keeping his face at an angle, he was unsure about whether to wipe them. How soon after the tears fell should he clear them from his face? Should they be cleared at all?
+
+He brought his hand to his face, to his eyes. The bus came to a stop a little ways off from a convenience store, and he placed his jacket around his body. He departed the bus. About ten minutes from there was the big box store he worked at. He began his walk, jacket flapping in the wind. He did not like to zip up his jacket. If he were still inside or had just left, he might. However, once he had begun his journey, he would not. No matter how strong the gales were. Or if his fingers had grown numb. He simply walked till he reached his destination. Trying his best to disguise his shiver in his gait.
