@@ -1,0 +1,9 @@
++++
+title = 'Not Quite a Lake'
++++
+---
+It was mid-August and during this time of year, I retreated to my family’s home in the countryside. We would spend days going out into the forest, crunching on the falling leaves. Mother would cook. Father would praise said cooking. My brother and he would sometimes go into the forest, emerging late in the noon or sometimes at dusk with some sort of game. Last year, they procured a boar, and a rabbit which seemed pitiful by comparison. Now, after Mother prepared both, I did wish they had found more rabbits. Lost in my reminiscing, I suddenly found myself aware of the leather cushions beneath me.
+
+I continued to drive down the highway, taking note of the signs. There was one noting the population of the town over — 18,372 — and the distance to it — 32 km. I was still a ways off. I began to see the moon in the sky though the sun had not yet set. Another sign informed me that the left lanes were for vehicles, more personal ones, and the right for buses, lorries, and other vehicles of that sort. It told the overhead clearance limits as there was a highway that ran above this one. It was—looking further down the road—two kilometres out. Driving past the overhang, I found another sign. It told of the national wonders nearby. A park to the southwest and a zoo east of here — a shame, it seemed I had passed a wonder. North seemed to have a larger variety of boons. There was a museum and a lake in that direction.
+
+I ventured further down the road, and surely enough I found the lake. I passed by it most years, though I had not seen it in a few since the highway had been closed. I peered out the window. It did not seem right to call it a lake. Lake seemed far too quaint to this body of water. It could not be called a river, for it did not rush. Neither “pond” nor “ocean” were fitting descriptors.
