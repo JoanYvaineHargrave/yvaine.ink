@@ -14,8 +14,8 @@ Rain had started to fall as I walked the rest of the distance. I liked the rain.
 
 I was going to order lemon chicken and noodles. I thought I’d decide what noodles exactly at the counter.
 
-I had not realized that I would be ordering the same meal she would order for me.
+I had not realised that I would be ordering the same meal she would order for me.
 
 Or that it had been my first time here since she left.
 
-I also had not realized that I was tearing up.
+I also had not realised that I was tearing up.
