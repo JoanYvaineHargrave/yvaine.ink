@@ -1,5 +1,5 @@
 +++
-title = 'What Stays'
+title = 'Lemon Chicken'
 +++
 ---
 My bus should’ve been here two minutes ago. I’ve been shivering for the past seven. I worry that it was early. That it drove past here, picked up its passengers, and departed eight minutes ago. Bus stops, airport terminals, the waiting room at the doctor’s; a few of the places I find myself nervous at. As though my being in a place where people are always moving, I too might be whisked away. I’d question if it was my turn. Or if I had missed it. When I boarded the bus, was it the right one? A stop would be announced over the speakers, and I questioned if that was mine. Or if mine was the one after. Or maybe the one before. It did not matter how often I looked at the schedule, or the travel guide, or asked the receptionist if the muffled voice over the loudspeaker might’ve been referring to me. Nothing eased that corner of my mind.
