@@ -8,7 +8,7 @@ I believe this to be the reason for the things that happen. My bus leaving as I 
 
 I believe that action matters. That it causes all. I only believe this in the moments where I do not disappoint myself. This is why during the months of August, September, and October I find myself immobile. Splayed out on my bedroom carpet. Each day of this that passes leaves me more disappointed the next, and I believe the cycle is evident to you.
 
-I wish not to disappoint. However, I think getting better means confronting this. Fixing it.
+I wish not to disappoint. However, I think getting better means confronting *this*. Fixing it.
 
 I watched someone on the bus once who was chatty, they spoke to the driver and made them laugh, then to the person they sat next to and made them laugh. I do not think she disappointed herself.
 
