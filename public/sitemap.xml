@@ -2,23 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/writing/</loc>
+  </url><url>
     <loc>//localhost:1313/short_stories/andie/</loc>
   </url><url>
     <loc>//localhost:1313/archive/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/between_stops/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/brynn/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
+    <loc>//localhost:1313/short_stories/clara/</loc>
+  </url><url>
     <loc>//localhost:1313/short_stories/conversation_nonetheless/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/doyle/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/green/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/half_a_chair/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/here_now/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
+    <loc>//localhost:1313/short_stories/leanne/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/lemon_chicken/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/like_a_train/</loc>
+  </url><url>
     <loc>//localhost:1313/short_stories/mike/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/not_quite_a_lake/</loc>
   </url><url>
     <loc>//localhost:1313/photography/</loc>
   </url><url>
@@ -32,7 +50,9 @@
   </url><url>
     <loc>//localhost:1313/short_stories/tonya/</loc>
   </url><url>
-    <loc>//localhost:1313/writing/</loc>
+    <loc>//localhost:1313/short_stories/what_stays/</loc>
+  </url><url>
+    <loc>//localhost:1313/short_stories/where_it_comes_from/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/yvonne/</loc>
   </url>
