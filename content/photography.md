@@ -2,4 +2,4 @@
 title = 'Photography'
 +++
 
-Yet to come. 
+It's taking a bit.
