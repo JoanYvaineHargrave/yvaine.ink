@@ -8,13 +8,6 @@
     <language>en-gb</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>//localhost:1313/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/writing/</guid>
-      <description>Selected Stories Here, Now&#xA;March 2026 · 234 words He got me flowers. Leanne&#xA;March 2026 · 416 words It must’ve been Wednesday. I knew because I’d slept six times since we last spoke. What Stays&#xA;April 2026 · 539 words [...] nothing could save one from the itch. Mike&#xA;March 2026 · 429 words I thought it would hurt to say. Where It Comes From&#xA;April 2026 · 320 words That these events and my disappointment are born of the same mother.</description>
-    </item>
-    <item>
       <title>Andie</title>
       <link>//localhost:1313/short_stories/andie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,6 +55,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/short_stories/doyle/</guid>
       <description>Passenger seat. Doyle could feel the faint hum of the engine. Each crack in the road. Every manhole cover. The trees blurred by. It was fall, Doyle did not care for fall too much. The orange was nice at first. But each day he grew tired of it.&#xA;Jovial shrieks from the backseat. The baby was laughing.&#xA;Doyle looked back.&#xA;His brother was tickling the kid. He was good with them like that.</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>//localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/gallery/</guid>
+      <description> Back </description>
     </item>
     <item>
       <title>Green</title>
@@ -124,7 +124,7 @@
       <link>//localhost:1313/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/photography/</guid>
-      <description>It&amp;rsquo;s taking a bit.</description>
+      <description> It&#39;s taking a bit. Gallery&#xA;All my pictures. Each and every single one. </description>
     </item>
     <item>
       <title>Reed</title>
@@ -153,6 +153,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/short_stories/where_it_comes_from/</guid>
       <description>Autumn will come, and I will disappoint myself. I say this not to be negative or self-pitying. For it is true. I was disappointed last Autumn, and the Autumn prior. The concerning part is that increasingly I have found myself more and more disappointed between Autumns.&#xA;I believe this to be the reason for the things that happen. My bus leaving as I got to the stop. The bird that shat on me this morning.</description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>//localhost:1313/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/writing/</guid>
+      <description>Selected Stories Here, Now&#xA;March 2026 · 234 words He got me flowers. Leanne&#xA;March 2026 · 416 words It must’ve been Wednesday. I knew because I’d slept six times since we last spoke. What Stays&#xA;April 2026 · 539 words [...] nothing could save one from the itch. Mike&#xA;March 2026 · 429 words I thought it would hurt to say. Where It Comes From&#xA;April 2026 · 320 words That these events and my disappointment are born of the same mother.</description>
     </item>
     <item>
       <title>Yvonne</title>
