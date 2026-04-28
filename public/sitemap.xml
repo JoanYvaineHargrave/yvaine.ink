@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/writing/</loc>
-  </url><url>
     <loc>//localhost:1313/short_stories/andie/</loc>
   </url><url>
     <loc>//localhost:1313/archive/</loc>
@@ -19,6 +17,8 @@
     <loc>//localhost:1313/short_stories/conversation_nonetheless/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/doyle/</loc>
+  </url><url>
+    <loc>//localhost:1313/gallery/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/green/</loc>
   </url><url>
@@ -46,6 +46,8 @@
   </url><url>
     <loc>//localhost:1313/short_stories/</loc>
   </url><url>
+    <loc>//localhost:1313/short_stories/sienna/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/tonya/</loc>
@@ -53,6 +55,8 @@
     <loc>//localhost:1313/short_stories/what_stays/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/where_it_comes_from/</loc>
+  </url><url>
+    <loc>//localhost:1313/writing/</loc>
   </url><url>
     <loc>//localhost:1313/short_stories/yvonne/</loc>
   </url>
