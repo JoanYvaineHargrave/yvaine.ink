@@ -1,5 +1,5 @@
 +++
-title = 'Apart From the Times I Do'
+title = 'Apart From The Times I Do'
 +++
 ---
 I do not wish to grow old. I see them sometimes, and I do not wish to be that age. I do not wish to walk around slowly, limping, as though I’m falling onto each leg in front of the other. I do not wish to abruptly break silences with a guttural cough, a cough that sounds like it might spill out whatever has kept me alive this long.
