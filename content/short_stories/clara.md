@@ -8,13 +8,13 @@ I could see her walking down the street. I smiled, ear to ear. I’d missed the 
 
 “Ehn, y’know. Doing,” eyes looking to the right. Mine followed.
 
-There was a lake there. It would freeze over during the winters. In our youth, our parents would warn us to  go nowhere near it. In our youth, we would. I remember catching fireflies with her next to them. I almost fell in; she caught me before I did. It’d been drained since then. Construction equipment still lay there. Funny. I hadn’t seen anyone work on it for months.
+There was a lake there. It would freeze over during the winters. In our youth, our parents would warn us to go nowhere near it. In our youth, we would. I remember catching fireflies with her next to them. I almost fell in; she caught me before I did. It’d been drained since then. Construction equipment still lay there. Funny. I hadn’t seen anyone work on it for months.
 
 Reaching into my pocket, “Got you this.”
 
 It was a necklace. Clara liked pearls; she especially liked the more amorphous ones. The more misshapen ones.
 
-“I found some of them while I was at Maine. Washed up close to the shore.” My eyes met hers. 
+“I found some of them while I was at Maine. Washed up close to the shore.” My eyes met hers.
 
 “Maine?”
 
@@ -34,6 +34,8 @@ We walked a couple steps in silence. Side by side. I stood on the left, watching
 
 Clara’s hand brushed her nose.
 
-“Maisie,” I heard. 
+“Maisie,” I heard.
 
-“Our lake’s...”
+“Our lake’s…”
+
+“I know.”
