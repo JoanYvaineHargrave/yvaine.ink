@@ -1,0 +1,5 @@
++++
+title = 'Where It Lies'
++++
+---
+It would be a lie to chalk my attempts at things in my life up to pure intentions, or to something greater. I want to be good at things. And within that lies another lie, one by omission: I want to be recognised for the things I am good at. In the pursuit of this, I search for where the core of my ability rests. I replicate aspects of the day I produced a result I was pleased with; I listen to the same music, I wear the same clothes, I sleep at the same time, and am met with a worse outcome. I then try to strip things, because the fewer the things, the more visible the core must be. In practice, it just means the empty canvas is smaller. What I have found is that I am able to make strides when my emotions are right; when I am the right amount of angry, or peaceful, or desperate. But these cannot be the core, for if they were, I could not become good in any meaningful capacity.
