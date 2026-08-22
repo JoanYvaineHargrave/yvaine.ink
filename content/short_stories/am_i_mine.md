@@ -1,0 +1,5 @@
++++
+title = 'Am I Mine?'
++++
+---
+My eyes fan out to the edges when facing a mirror, scanning the tiles behind me: the towel hung up in the corner, the shelf my conditioner sits on. No matter how hard I try to bring my eyes inward, there reaches a point where my eyes simply will not face themselves. Each day is different; some days I can wrestle them to see my pimple-speckled cheeks, on others, they make it no farther than the trough beneath my nose. And on certain days, my face is but a blur in my peripheral vision. Today, I can see the puffy bags beneath my eyes, the crease between my eyes and my nose, the overall slantedness of the left side in comparison to the right. I am looking at myself in the mirror. Eye to eye, and I am not sure how I feel about this. There is no sense of victory. As I look into these eyes. Mine. It is as though I am searching for a person. It is not challenging to stare into the eyes of a stranger.
