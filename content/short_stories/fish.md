@@ -26,4 +26,4 @@ A few people threw their heads back in the audience, snickers rippling through.
 
 “I guess uh, what I’m trying to say is…” You paused for a moment and then, “Yeah, that’s it. I appreciate everyone who came out today.”
 
-A light pitter-patter of applause trickled through the audience as you and Naja came back to our seats. You sat down and wiped your eyes once more. I held your hand, which was resting on your lap, and squeezed it. You bowed your head and then, looking up at me, you smiled.
+A light pitter-patter of applause trickled through the audience as you and Naja came back to our seats. You sat down and wiped your eyes once more. I reached for your hand, which was resting on your lap, and squeezed it. You bowed your head and then, looking up at me, you smiled.
